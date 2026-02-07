@@ -34,3 +34,7 @@ Instead of ignoring vulnerabilities, this project demonstrates:
 - Fixing vulnerabilities at the source (e.g., base image updates)
 
 This reflects a real-world DevSecOps workflow rather than a green-only demo pipeline.
+
+
+Note: Some HIGH vulnerabilities may still appear due to upstream base image limitations.
+This project demonstrates controlled risk acceptance rather than blind suppression.
